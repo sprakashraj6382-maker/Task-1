@@ -1,0 +1,9 @@
+✅ Removed nulls: No missing values were found.
+
+✅ Removed duplicates: No duplicate rows were detected.
+
+✅ Standardized data types: Columns are already in correct formats (int for numeric, object for Gender).
+
+✅ Renamed columns (if needed): Column names are consistent, only spaces could be replaced with underscores for easier coding (e.g., Annual_Income_k$).
+
+✅ Verified ranges: Age, income, and spending score values are within expected ranges.
